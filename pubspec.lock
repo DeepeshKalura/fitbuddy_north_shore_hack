@@ -251,6 +251,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.6"
+  simple_animation_progress_bar:
+    dependency: "direct main"
+    description:
+      name: simple_animation_progress_bar
+      sha256: ea5a84956d59541794aa2e8d9d68af3c3fc712f6224992ebb68ac13325401c1c
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.6.0"
   sky_engine:
     dependency: transitive
     description: flutter

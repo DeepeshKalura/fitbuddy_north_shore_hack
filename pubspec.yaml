@@ -39,6 +39,7 @@ dependencies:
   fl_chart: ^0.64.0
   intl: ^0.18.1
   dotted_dashed_line: ^0.0.3
+  simple_animation_progress_bar: ^1.6.0
 
 dev_dependencies:
   flutter_test:

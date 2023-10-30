@@ -38,6 +38,7 @@ dependencies:
   google_fonts: ^4.0.4
   fl_chart: ^0.64.0
   intl: ^0.18.1
+  dotted_dashed_line: ^0.0.3
 
 dev_dependencies:
   flutter_test:

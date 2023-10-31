@@ -52,7 +52,7 @@ class _UpcomingWorkoutRowState extends State<UpcomingWorkoutRow> {
                   ),
                 ),
                 Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 5),
+                  padding: const EdgeInsets.symmetric(vertical: 8),
                   child: Text(
                     widget.wObj["time"].toString(),
                     style: TextStyle(

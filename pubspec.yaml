@@ -44,6 +44,10 @@ dependencies:
   animated_toggle_switch: ^0.8.0
   carousel_slider: ^4.2.1
   readmore: ^2.2.0
+  calendar_agenda: 
+    git: 
+      url: https://github.com/DeepeshKalura/calendar_agenda
+      ref: main
 
 dev_dependencies:
   flutter_test:

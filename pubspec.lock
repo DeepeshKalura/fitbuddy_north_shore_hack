@@ -25,6 +25,15 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
+  calendar_agenda:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: main
+      resolved-ref: ea98b23a72e3880a8d3a0ce6bf02716817683edb
+      url: "https://github.com/DeepeshKalura/calendar_agenda"
+    source: git
+    version: "0.0.2+2"
   carousel_slider:
     dependency: "direct main"
     description:
@@ -280,6 +289,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.2.0"
+  scrollable_positioned_list:
+    dependency: transitive
+    description:
+      name: scrollable_positioned_list
+      sha256: "1b54d5f1329a1e263269abc9e2543d90806131aa14fe7c6062a8054d57249287"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.8"
   simple_animation_progress_bar:
     dependency: "direct main"
     description:

@@ -30,8 +30,11 @@ class _ComparisonViewState extends State<ComparisonView> {
             width: 40,
             alignment: Alignment.center,
             decoration: BoxDecoration(
-                color: TColor.lightGray,
-                borderRadius: BorderRadius.circular(10)),
+              color: TColor.lightGray,
+              borderRadius: BorderRadius.circular(
+                10,
+              ),
+            ),
             child: Image.asset(
               "assets/img/black_btn.png",
               width: 15,

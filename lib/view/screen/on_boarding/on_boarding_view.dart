@@ -17,7 +17,6 @@ class _OnBoardingViewState extends State<OnBoardingView> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
 
     controller.addListener(() {
@@ -109,7 +108,7 @@ class _OnBoardingViewState extends State<OnBoardingView> {
                         setState(() {});
                       } else {
                         // Open Welcome Screen
-                        print("Open Welcome Screen");
+                        // print("Open Welcome Screen");
                         Navigator.push(
                           context,
                           MaterialPageRoute(

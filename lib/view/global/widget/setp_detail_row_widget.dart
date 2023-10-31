@@ -46,10 +46,11 @@ class StepDetailRow extends StatelessWidget {
             ),
             if (!isLast)
               DottedDashedLine(
-                  height: 80,
-                  width: 0,
-                  dashColor: TColor.secondaryColor1,
-                  axis: Axis.vertical)
+                height: 80,
+                width: 0,
+                dashColor: TColor.secondaryColor1,
+                axis: Axis.vertical,
+              )
           ],
         ),
         const SizedBox(
@@ -74,7 +75,7 @@ class StepDetailRow extends StatelessWidget {
                 padding: const EdgeInsets.only(top: 14.0, bottom: 5),
                 child: Text(
                   maxLines: 2,
-                  sObj["detail"].toString().trimLeft(),
+                  sObj["detail"].toString(),
                   style: TextStyle(
                     color: TColor.gray,
                     fontSize: 12,

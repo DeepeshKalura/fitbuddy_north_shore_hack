@@ -24,9 +24,9 @@ Fitbuddy offers a range of features to support your well-being:
 
 - **Meal Tracking:** Keep a record of your meals and nutritional intake. Make informed choices to improve your dietary habits.
 
-- **Hydration Reminder:** Stay hydrated by receiving timely reminders to drink water. Proper hydration is essential for overall well-being.
+- **Sleep Tracking:** Ensure a restful night's sleep with our sleep tracking feature. Monitor and analyze your sleep patterns, receive insights into your sleep quality, and set personalized sleep goals. Proper sleep is essential for overall well-being.
 
-- **Mental Well-Being:** Coming soon! We are actively developing features to support your mental health. Stay tuned for updates.
+
 
 ## Screenshots
 
